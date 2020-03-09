@@ -1,0 +1,7 @@
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_0101/molecule_2.txt
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_0201/molecule_2.txt
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_1101/molecule_2.txt
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_1102/molecule_2.txt
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_2402/molecule_2.txt
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_2501/molecule_2.txt
+/mnt/c/Users/sampurna/OneDrive - emblebi/a_current_work_in_progres/current_work_from_feb_2020/wim_interfaces/out_wim_3101/molecule_2.txt
